@@ -6,7 +6,6 @@ import com.jsh.lambda.function.ThreadFunction;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
-import java.util.function.Predicate;
 
 public class FunctionalTest {
     public static void execute(ThreadFunction function){
